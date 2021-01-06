@@ -26,3 +26,6 @@
 - Added sign out option to profile page
 - (For now) Replaced column and row input when creating a new drawing
   with size (both columns and rows are equal to the size number)
+
+📍 v1.0.3 (06/01/2020)
+- Changed app icon
